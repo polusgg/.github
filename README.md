@@ -1,1 +1,1 @@
-Please read the LICENCE file.
+Please read the LICENSE file.
