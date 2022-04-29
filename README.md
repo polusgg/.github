@@ -1,1 +1,1 @@
-# .github
+Please read the LICENCE file.
